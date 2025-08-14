@@ -1,6 +1,3 @@
-# Tensor_ML_Project
-Built and trained deep learning models using TensorFlow to perform supervised learning tasks. Implemented data preprocessing, neural network design, training, and evaluation. Demonstrated proficiency in using TensorFlow/Keras for scalable and efficient model development.
-
 # TensorFlow Machine Learning Project 🧠⚙️
 
 This project demonstrates the use of **TensorFlow** for implementing deep learning models on structured datasets. It includes data preprocessing, model design, training, evaluation, and visualization of results using Keras and TensorFlow APIs.
